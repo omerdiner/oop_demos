@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="easywsdl1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game_management_demo/easywsdl/ExKsoap2-1.0.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game_management_demo/easywsdl/ksoap2-android-assembly-3.6.4-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
